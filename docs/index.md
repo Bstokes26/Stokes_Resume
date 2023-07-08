@@ -1,89 +1,111 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brayden Stokes' Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brayden Stokes
+IT QA Software Engineer at Melaleuca: The Wellness Company | Senior at Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="brayden.t.stokes26@gmail.com">Brayden.t.stokes26@gmail.com</a>
+| <a href="https://www.linkedin.com/in/brayden-t-stokes/">LinkedIn</a>
+| <a href="https://github.com/Bstokes26">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Business Analytics Major
+- Studied additional Business Management and Accounting courses
+- Excelled in Excel and Database design/management courses
+- Substitute taught a Spreadsheet Analysis For Business course I had already taken on several occasions
+
+`2016-2018`
+__Idaho State University__, Pocatello, ID
+
+- Completed several Generals credits while in High School
+
+`2016-2018`
+__Utah State University__, Logan, UT
+
+- Completed several Generals credits while in High School
+
+
+## Skills
+
+- JavaScript, SQL, NoSQL, JSON, Python, VBA, DAX, C# (.Net), and C programming languages
+- Software Quality Assurance
+- QA Automation
+- Microsoft Excel and Power BI
+- Team Management/Leadership
+- Public Relations/Customer Service
 
 
 ## Related Experience
 
-### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### IT QA Software Engineer
+`July 2022 - Present`
+__Melaleuca: The Wellness Company__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Designed and created automated tests for monthly, weekly, and daily sanity testing
+- Manually tested software through UI/UX and backend programs for projects and updates
+- Wrote SQL queries for data manipulation and research
+- Wrote Automated API tests using Javascript in Postman, moved tests into an ADO Pipeline
+- Wrote Automated tests for web-based and native applications using C# in Ranorex and Katalon
+- Provided approval for all software development go-lives coming from Order, Payment, Product, and Promotion focused teams
+- QA Lead on many worldwide projects including the launch of a second company owned by Melaleuca: Riverbend Ranch
 
 
-## Service and Work History
+### Customer Care Supervisor
+`September 2021 - June 2022`
+__Melaleuca: The Wellness Company__, Idaho Falls, ID
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Managed a team of 17 customer service and order entry specialists
+- Listened to and graded recordings of calls for team members to provide training
+- Created, updated, and managed databases in excel through use of VBA and excel formulating
+- Lead daily meetings with team members to provide general instruction and inspiration
+- Provided recognition and initiated corrective action for team members as appropriate
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Customer Care Training Coach
+`March 2021 - September 2021`
+__Melaleuca: The Wellness Company__, Idaho Falls, ID
 
+- Graded recordings, and provided feedback for approximately 200 employees for training
+- Created, updated, and managed databases in excel through use of VBA and excel formulating
+- Trained new employees on how to take care of customers with world class customer service
+
+
+### Customer Service Specialist
+`September 2020 - February 2021`
+__Melaleuca: The Wellness Company__, Idaho Falls, ID
+
+- Answered inbound customer service, sales, enrollment (account creation), and web support calls from existing and potential customers
+- Lead as a team lead from December through February
+- Lead daily "Standups" (announcements/small trainings)
+
+
+## Service
+
+`2018-2020`
+__Service Missionary__, Philippines
+
+- Supervised 10 volunteers through weekly trainings and daily reports as a District Leader
+- Supervised 20-24 volunteers through weekly trainings and weekly reports as a Zone Leader
+- Assisted struggling volunteers to reach their goals via special assignments from my president
+- Became fluent in Cebuano, Waray Waray, Tagalog, Allinese, Bisikol, and Binisaya
+
+
+## Honors
+- Melaleuca’s Star Performer Award recipient in May 2021, December 2021, and December 2022
+- Melaleuca Customer Care’s #1 ranked Supervisor in Nov 2021, Mar 2022, May 2022, June 2022
+- Preston, Idaho’s representative for the National Society of High School Scholars
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
