@@ -5,6 +5,8 @@ title: Brayden Stokes' Resume
 # Brayden Stokes
 IT QA Software Engineer at Melaleuca: The Wellness Company | Senior at Brigham Young University - Idaho.
 
+<!-- To start off, I want to say that your resume is way better than mine, and I can see that you have way more experience than I do, so do not expect much from my edits, haha. -->
+
 <div id="webaddress">
 <a href="brayden.t.stokes26@gmail.com">Brayden.t.stokes26@gmail.com</a>
 | <a href="https://www.linkedin.com/in/brayden-t-stokes/">LinkedIn</a>
@@ -76,7 +78,13 @@ __Melaleuca: The Wellness Company__, Idaho Falls, ID
 __Melaleuca: The Wellness Company__, Idaho Falls, ID
 
 - Graded recordings, and provided feedback for approximately 200 employees for training
+
+<!-- I think that the comma after "Graded recordings" is not needed. You did not add a comma in the last item in your Customer Care Supervisor section (after "Provided recognition"), so I think it is better to remove the comma here and be consistent. -->
+
 - Created, updated, and managed databases in excel through use of VBA and excel formulating
+
+<!-- Not sure about this, but I think "excel" needs to be capitalized. Also not sure about this, but "the use of VBA..." sounds more correct grammatically.-->
+
 - Trained new employees on how to take care of customers with world class customer service
 
 
@@ -86,6 +94,9 @@ __Melaleuca: The Wellness Company__, Idaho Falls, ID
 
 - Answered inbound customer service, sales, enrollment (account creation), and web support calls from existing and potential customers
 - Lead as a team lead from December through February
+
+<!-- Maybe include the size of your team here? How many people did you lead as a team lead? -->
+
 - Lead daily "Standups" (announcements/small trainings)
 
 
